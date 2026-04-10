@@ -1,0 +1,5 @@
+{
+  "name": "Todo App",
+  "description": "A clean and functional todo application with tabbed filtering and task management.",
+  "requestFramePermissions": []
+}
